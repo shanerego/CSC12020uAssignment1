@@ -16,7 +16,7 @@ import javafx.stage.Stage;
 import java.awt.*;
 
 
-public class Main extends Application {
+public class Question2 extends Application {
     private TextField tfInvestmentAmount = new TextField();
     private TextField tfYears = new TextField();
     private TextField tfAnnualInterestRate = new TextField();
