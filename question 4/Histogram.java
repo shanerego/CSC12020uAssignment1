@@ -5,7 +5,7 @@ import java.swing.*;
 public class Histogram extends Panel{
     private int[] count;
 
-    public void showHistom(int[] count) {
+    public void showHistogram(int[] count) {
         this.count = count;
         repaint();
 
@@ -29,7 +29,7 @@ public class Histogram extends Panel{
         int x = 30; 
         g.drawLine(10, height - 45, width - 10, height - 45);
         for (int i = 0; i < count.length; i++){
-            int barHeight = (int)(((double)count[i] / (double)maxCount) * (height - 55))
+            int barHeight = (int)(((double)count[i] / (double)maxCount) * (height - 55));
 
             g.drawRect(x, height - 45 - barHeight, individualWidth, barHeight);
             g.drawString((char)(65 + i) + "", x, height - 30);
