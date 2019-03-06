@@ -31,9 +31,8 @@ public class Question1 extends Application {
         pane.add(imageView3, 2, 0);
 
 
-        // Create a scene and place it in the stage
         Scene scene = new Scene(pane);
-        primaryStage.setTitle("Question 1 Shane Rego"); // Set the stage title
+        primaryStage.setTitle("Question 1: Displaying Three Cards"); // Set the stage title
         primaryStage.setScene(scene); // Place the scene in the stage
         primaryStage.show(); // Display the stage
     }
