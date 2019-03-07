@@ -2,23 +2,18 @@
 ## Assignment 1 
 ### Members: Shane Rego & Kizito Okoye
 * How to Download
-  > step 1
+  > Visit https://github.com/shanerego/CSC12020uAssignment1
   
-  > step 2
+  > download CSC12020uAssignment1
   
-  > step 3
-  
-  > step 4
-  
-  > step 5
-  
-  > step 6
+  > unzip all files
+ 
 
 * How to Run
   
-  > step 1
+  > load each question class in intelliJ separately
   
-  > step 2
+  > for question 1 make sure the card images are in the same source file as the code
   
   > step 3
   
