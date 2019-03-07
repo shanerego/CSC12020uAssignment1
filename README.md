@@ -15,11 +15,6 @@
   
   > for question 1 make sure the card images are in the same source file as the code
   
-  > step 3
+  > the rest of the questions and be loaded into intellij and ran accordingly
   
-  > step 4
-  
-  > step 5
-  
-  > step 6
 
